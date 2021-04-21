@@ -4,9 +4,11 @@ These programs count the indexes in Illumina fastq files.
 
 There are 3 programs:
 
-countIndexes.py which will Count_both_indexes
-countIndexes_i5_only.py which will count i5 (indexing read2) only
-countIndexes_i7_only.py which will count i7 (indexing read1) only
+countIndexes.py which will Count_both_indexes (this is in the main directory)
+
+countIndexes_i5_only.py which will count i5 (indexing read2) only (this is in a daughter directory)
+
+countIndexes_i7_only.py which will count i7 (indexing read1) only (this is in a daughter directory)
 
 The purpose of these programs is to determine the most common Illumina indexes within a fastq file.
 
