@@ -10,7 +10,7 @@ countIndexes_i5_only.py which will count i5 (indexing read2) only (this is in a 
 
 countIndexes_i7_only.py which will count i7 (indexing read1) only (this is in a daughter directory)
 
-The purpose of these programs is to determine the most common Illumina indexes within a fastq file.
+The purpose of these programs is to determine the most common indexes within an Illumina fastq file.
 
 You can use these programs to identify what indexes you actually had in a pool that was sequenced (as opposed to what you _thought_ was in the pool).
 
